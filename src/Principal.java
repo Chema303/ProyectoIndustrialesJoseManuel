@@ -6,7 +6,7 @@ public class Principal {
 
 		//Esta es la clase principal de mi proyeco de Industriales
 		//Para la asignatura de ticII
-	
+		//Aqui se incluye el funcionamiento
 		
 		
 		
